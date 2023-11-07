@@ -19,3 +19,13 @@ Today_CT_ProblemName <br/>
 // 예시
 20231105_CT_가운데에서시작하여빙빙돌기
 ```
+
+## BaekJoon
+### 1. name rule
+__solution name__: BaekJoon <br/>
+__project name__: BJ_ProblemName_ProblemNum <br/>
+__cpp name__: main.cpp  <br/>
+
+### 2. commit name rule
+__풀었다__: Today_BJ_ProblemName <br/>
+__못 풀었다__: Today_BJ_ProblemName_ing
