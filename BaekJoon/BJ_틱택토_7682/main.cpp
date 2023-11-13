@@ -40,6 +40,7 @@ bool WinO() {
 
 	// 대각선 2개 판단
 
+	return false;
 }
 
 bool IsValid() {
