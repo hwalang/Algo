@@ -10,5 +10,8 @@
     <ClCompile Include="특정수와근접한합.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Answer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
