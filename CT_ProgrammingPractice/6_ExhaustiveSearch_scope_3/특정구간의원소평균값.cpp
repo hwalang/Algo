@@ -30,7 +30,7 @@ int main() {
 					break;
 				}
 			}
-		}
+		} 
 	}
 
 	cout << ans;
