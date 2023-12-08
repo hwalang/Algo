@@ -3,23 +3,23 @@
 
 ## CodeTree
 ### 1. name rule
-__solution name__: CT_CourseName <br/>
-__project name__: ChapterNum_ChapterName_SectionName_SectionNum <br/>
+__solution name__: CT_CourseName_ChapterName <br/>
+__project name__: ChapterNum_SectionName_SectionNum <br/>
 __cpp name__: <span>ProblemName.cpp | Answer.cpp</span> <br/>
 ```c++
 // 예시
-CT_ProgrammingPractice
-5_simulation2_dxdy_12
+CT_DataStructure_ArrayAndList
+5_dxdy_12
 가운데에서시작하여빙빙돌기.cpp | Answer.cpp
 ```
 
 ### 2. commit name rule
 __하나의 문제만 commit__: Today_CT_ProblemName <br/>
-__여러 개의 문제를 한 번에 commit__: Today_CT_SectionName_SectionNums <br/>
+__여러 개의 문제를 한 번에 commit__: Today_CT_ChapterName_SectionName_SectionNums <br/>
 ```c++
 // 예시
 20231105_CT_가운데에서시작하여빙빙돌기
-20231107_CT_digit_2~5
+20231107_CT_simulation2_digit_2~5
 ```
 
 ## BaekJoon
